@@ -92,3 +92,8 @@
 - [Dogstudio](https://dogstudio.co)
 - [ObysAgency](https://obys.agency)
 - [HelloMonday](https://hellomonday.com)
+- [Instrument](https://instrument.com)
+- [Stinkstudios](https://stinkstudios.com)
+- [Basicagency](https://basicagency.com)
+- [Fantasy](https://fantasy.co)
+- [Squarespace](https://squarespace.com)
