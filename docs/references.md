@@ -1,21 +1,43 @@
 # References
 
-## Behance
-
-- [BarbershopWebsiteDesign](https://behance.net/gallery/181292443/Barbershop-website-design-visual-identity)
-
 ## Awwwards
 
-- [LucasWoock](https://awwwards.com/sites/lucas-woock-portfolio)
-- [CatelSalonBarber](https://awwwards.com/inspiration/cartel-salon-barber-beauty-ecommerce-psd-template-by-unionagency)
+- [Lusion](https://www.awwwards.com/lusion)
+- [Resn](https://www.awwwards.com/resn)
+- [Hello Monday](https://www.awwwards.com/hellomonday)
+- [14islands](https://www.awwwards.com/14islands)
+- [Makemepulse](https://www.awwwards.com/makemepulse)
+- [Obys](https://www.awwwards.com/obys)
+- [Adoratorio Studio](https://www.awwwards.com/adoratorio.studio)
+- [REJOUICE](https://www.awwwards.com/rejouice)
+- [Dogstudio](https://www.awwwards.com/dogstudio)
+- [Burocratik](https://www.awwwards.com/burocratik)
+- [Locomotive](https://www.awwwards.com/locomotive)
+- [Immersive Garden](https://www.awwwards.com/immersivegarden)
+- [AQuest](https://www.awwwards.com/aquest)
+- [Build in Amsterdam](https://www.awwwards.com/buildinamsterdam)
+- [Zajno](https://www.awwwards.com/zajno)
+- [Studio 28K](https://www.awwwards.com/28K)
+- [BONHOMME](https://www.awwwards.com/bonhomme)
+
+## Behance
+
+- [Resn](https://www.behance.net/resncreative)
+- [Obys](https://www.behance.net/obys)
+- [Ramotion](https://www.behance.net/Ramotion)
+- [Lazarev](https://www.behance.net/lazarevagency)
+- [Gapsy Studio](https://www.behance.net/Gapsy)
+- [Cosmos Studio](https://www.behance.net/cosmosstudio)
+- [ANODA](https://www.behance.net/ANODA_Agency)
+- [Six2eight](https://www.behance.net/six2eight_agency)
 
 ## Dribbble
 
-- [FitnessTrackerDashboard](https://dribbble.com/shots/14973430-Fitness-Tracker-Dashboard)
-- [BarberWebsite](https://dribbble.com/tags/barber-website)
-- [Basenji](https://dribbble.com/shots/2508550-Basenji)
-- [MusicBroadcastLanding](https://dribbble.com/shots/9519114-Music-Broadcast-Landing-page-UI-UX-Inspiration)
-- [ApresHome](https://dribbble.com/shots/20394039-Apres-Home-page-web-design)
-- [ClubPups](https://dribbble.com/shots/10491855-Club-Pups)
-- [DogWebsiteSearch](https://dribbble.com/search/design-website-dog)
-- [EScooterApp](https://dribbble.com/shots/19945992-E-scooter-App)
+- [Obys](https://dribbble.com/obys)
+- [14islands](https://dribbble.com/14islands)
+- [Synchronized](https://dribbble.com/Synchronized)
+- [Tonik](https://dribbble.com/tonikstudio)
+- [Dtail Studio](https://dribbble.com/dtailstudio)
+- [Polybox Studio](https://dribbble.com/polybox_studio)
+- [BLS](https://dribbble.com/blacklead-studio)
+- [Bacho Studio](https://dribbble.com/bachoodesign)

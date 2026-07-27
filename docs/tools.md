@@ -1,23 +1,12 @@
 # Tools
 
-## PNG
+## Icons
 
-- [SimilarPng](https://similarpng.com)
-- [PngImg](https://pngimg.com)
-- [PngWing](https://pngwing.com)
-- [CleanPng](https://cleanpng.com)
-- [PngEgg](https://pngegg.com)
-
-## Icon
-
-- [PhosphorIcons](https://phosphoricons.com)
-- [TablerIcons](https://tablericons.com)
-- [Isocons](https://isocons.app)
+- [Tabler Icons](https://tablericons.com)
 - [Lucide](https://lucide.dev)
 - [Iconoir](https://iconoir.com)
-- [NounProject](https://thenounproject.com)
-- [SvgRepo](https://svgrepo.com)
-- [Iconduck](https://iconduck.com)
+- [SVG Repo](https://svgrepo.com)
+- [IamVector](https://iamvector.com)
 
 ## Fonts
 
@@ -27,11 +16,48 @@
 - [Rufonts](https://rufonts.ru)
 - [Pangrampangram](https://pangrampangram.com)
 - [Typewolf](https://typewolf.com)
-- [FontsInUse](https://fontsinuse.com)
-- [AdobeFonts](https://fonts.adobe.com)
-- [Fontpair](https://fontpair.co)
+- [Fonts In Use](https://fontsinuse.com)
 
-## Color
+## Colors
 
 - [Coolors](https://coolors.co)
-- [HappyHues](https://happyhues.co)
+- [Happy Hues](https://happyhues.co)
+- [ColorHunt](https://colorhunt.co)
+- [Realtime Colors](https://realtimecolors.com)
+- [Kulr](https://kulr.app)
+
+## Gradients & Patterns
+
+- [UI Gradients](https://uigradients.com)
+- [Haikei](https://haikei.app)
+- [Rhythm](https://rhythm.pixels.studio)
+- [Gradientor](https://gradientor.com)
+- [Noise Gradient](https://noisegradient.com)
+
+## Mockups
+
+- [Previewed](https://previewed.app)
+- [MockupBro](https://mockupbro.com)
+- [Mokkify](https://mokkify.com)
+- [Mockey](https://mockey.ai)
+
+## UI Components
+
+- [Shadcn](https://ui.shadcn.com)
+- [Remoraid](https://remoraid.dev)
+- [Basecn](https://basecn.dev)
+- [Mantine](https://mantine.dev)
+- [Starwind](https://starwind.dev)
+- [Tweakcn](https://tweakcn.com)
+- [Magic UI](https://magicui.design)
+- [Base UI](https://base-ui.com)
+- [HeroUI](https://www.heroui.com)
+- [React Bits](https://reactbits.dev)
+- [Basecoat](https://basecoatui.com)
+- [Aura](https://www.aura.build)
+- [21st](https://21st.dev)
+- [Aceternity](https://ui.aceternity.com)
+- [Tailark](https://tailark.com)
+- [Component Gallery](https://component.gallery)
+- [Uiverse](https://uiverse.io)
+- [ReUI](https://reui.io)
