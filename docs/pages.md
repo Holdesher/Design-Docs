@@ -97,4 +97,6 @@
 - [Basic Agency](https://basicagency.com)
 - [Fantasy](https://fantasy.co)
 - [Squarespace](https://squarespace.com)
-- [Only Digital](https://only.digital/)
+- [Only Digital](https://only.digital)
+- [Week Wild Plus](https://week.wild.plus)
+- [LandonOrris](https://landonorris.com)
